@@ -15,12 +15,11 @@ AI-powered downloader that intelligently detects, optimizes, and downloads any m
 - 🎨 **Smart Thumbnails**: AI-generated previews and metadata extraction
 - 📊 **Batch Processing**: Intelligent bulk downloads with AI-powered organization
 
-![ai-downloader-demo](https://github.com/user-attachments/assets/placeholder-demo-gif)
+
 
 ## 🔗 Links
 
 - 🎁 Get it [here](https://serp.ly/ai-downloader)
-- 🔒 View [Permissions Justification](PERMISSIONS.md)
 - ❓ Check FAQs [here](https://github.com/orgs/serpapps/discussions/categories/faq)
 - 🐛 Report bugs [here](https://github.com/serpapps/ai-downloader/issues)
 - 🆕 Request features [here](https://github.com/serpapps/ai-downloader/issues)
@@ -152,37 +151,6 @@ AI-powered downloader that intelligently detects, optimizes, and downloads any m
 - 🔄 Live stream recording and segmentation
 - 🔄 API access for developers
 
-## Screenshots
-
-<br><br>
-![ai-downloader-main-interface](https://github.com/user-attachments/assets/placeholder-main-interface)
-<br><br>
-![ai-downloader-smart-detection](https://github.com/user-attachments/assets/placeholder-smart-detection)
-<br><br>
-![ai-downloader-batch-processing](https://github.com/user-attachments/assets/placeholder-batch-processing)
-<br><br>
-![ai-downloader-organization](https://github.com/user-attachments/assets/placeholder-organization)
-<br><br>
-
-## Videos
-
-### How AI Downloader Works: Complete Tutorial
-
-<a href="https://www.youtube.com/watch?v=placeholder" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/ai-downloader-complete-tutorial.jpg" width="700px">
-</a>
-
-### Advanced Features: AI-Powered Organization & Optimization
-
-<a href="https://www.youtube.com/watch?v=placeholder" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/ai-downloader-advanced-features.jpg" width="700px">
-</a>
-
-### Batch Processing: Download Entire Channels & Playlists
-
-<a href="https://www.youtube.com/watch?v=placeholder" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/ai-downloader-batch-processing.jpg" width="700px">
-</a>
 
 ## Installation Instructions
 
